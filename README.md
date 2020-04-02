@@ -1,5 +1,12 @@
 # Spotiapp
 
+![home-spotiapp](https://user-images.githubusercontent.com/54085516/78210518-b9e0c800-74aa-11ea-9b0d-4edb8ceb14fa.png)
+
+![spotiapp-search](https://user-images.githubusercontent.com/54085516/78210525-c06f3f80-74aa-11ea-822e-f9f3eb344d6b.png)
+
+
+![spotiapp-reproductor](https://user-images.githubusercontent.com/54085516/78210530-c533f380-74aa-11ea-96bf-0ada5e466c2a.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
 ## Development server
